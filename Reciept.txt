@@ -1,0 +1,13 @@
+---------- Shop Reciept ----------
+Adress: Kaskelen, Abylaikhan, 1/1
+Tel: +7 771 671 29 05
+----------------------------------
+Date: 01/12/2024 14:04
+
+Sandwich with chicken        500.0
+Samsa                        350.0
+Fusetea                      480.0
+Coffee                       180.0
+----------------------------------
+Total:                      1510.0
+Thank you for purchase!
