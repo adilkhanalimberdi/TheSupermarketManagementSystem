@@ -106,7 +106,7 @@ class Client {
     public static void getReciept(String[] items, double total) {
         String info = "-".repeat(10) + " Shop Reciept " + "-".repeat(10) + "\n" +
                 "Adress: Kaskelen, Abylaikhan, 1/1\n" +
-                "Tel: +7 771 671 29 05\n" +
+                "Tel: +7 771 671 xx xx\n" +
                 "-".repeat(14 + 20) + "\n" +
                 "Date: 01/12/2024 14:04\n\n";
         for (int i = 0; i < items.length; i++) {
